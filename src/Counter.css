@@ -1,0 +1,51 @@
+.primary {
+    display: block;
+    background-color: #dde3ed;
+    margin: auto;
+    width: 20%;
+    height: 200px;
+    border: solid 1px black;
+
+}
+
+.counterValue {
+    width: 80px;
+    height: 80px;
+    font-size: 60px;
+    padding: 0px;
+    margin: 20px auto;
+    color: blue;
+   
+}
+.incrementButton {
+    display: inline-block;
+    float: left;
+    background-color: green;
+    width: 30%;
+    height: 50px;
+    font-weight: bold;
+    margin-left: 7.5%;
+    
+}
+.decrementButton {
+    display: inline-block;
+    float: right;
+    background-color: red;
+    width: 30%;
+    height: 50px;
+    font-weight: bold;
+    margin-right: 7.5%;
+    
+}
+.resetButton {
+    display: inline-block;
+    background-color: orange;
+    width: 20%;
+    height: 50px;
+    font-weight: bold;
+    margin: auto;
+    
+}
+h1 {
+    color: green;
+}
